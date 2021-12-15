@@ -16,6 +16,6 @@ With all of the tweets circulating every second it is hard to tell whether the s
 
 ### Technologies
 
-https://img.shields.io/badge/<python>-<3.8.8>-<yellow>
-
+- 
+[](https://img.shields.io/badge/<python>-<3.8.8>-<yellow>)
 
