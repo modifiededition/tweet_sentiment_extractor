@@ -12,8 +12,10 @@ With all of the tweets circulating every second it is hard to tell whether the s
 - EDA, Preprocesssing, fine-tuning transformer models , post-processing, error analysis etc. all have been explained step-by-step in this article: **www.medium.com**
 - data folder contrains two csv files: train and test which is fetched from the given kaggle competition **https://www.kaggle.com/c/tweet-sentiment-extraction**
 
+***
 
-	/appveyor/build/:user/:repo
+### Technologies
 
+https://img.shields.io/badge/<python>-<3.8.8>-<yellow>
 
 
