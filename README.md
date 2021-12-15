@@ -17,5 +17,6 @@ With all of the tweets circulating every second it is hard to tell whether the s
 ### Technologies
 
 - 
-[python](https://img.shields.io/badge/<python>-<3.8.8>-<yellow>)
+![python](https://img.shields.io/badge/<python>-<3.8.8>-<yellow>)
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/saltstack/salt.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/saltstack/salt/alerts/)
