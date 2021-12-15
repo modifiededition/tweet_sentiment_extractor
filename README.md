@@ -14,9 +14,11 @@ With all of the tweets circulating every second it is hard to tell whether the s
 
 ***
 
-### Technologies
+### Tools
 
-- 
-![python](https://img.shields.io/badge/<python>-<3.8.8>-<yellow>)
+![python](https://img.shields.io/badge/python-3.8.8-yellow)
+![transformers](https://img.shields.io/badge/transformers-4.12.3-yellowgreen)
+![datasets](https://img.shields.io/badge/datasets-1.16.1-red)
+![tensorflow](https://img.shields.io/badge/tensorflow-2.6.0-orange)
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/saltstack/salt.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/saltstack/salt/alerts/)
